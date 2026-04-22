@@ -89,3 +89,15 @@ This repository is a reflection of my daily effort to become better at problem-s
 ---
 
 ⭐ If you find this helpful, consider starring the repo!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/quaildev57/DataStructures/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/quaildev57/DataStructures/tree/master/0151-reverse-words-in-a-string) |
+<!---LeetCode Topics End-->
