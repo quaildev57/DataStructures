@@ -108,6 +108,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/quaildev57/DataStructures/tree/master/0027-remove-element) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/quaildev57/DataStructures/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Counting
 |  |
 | ------- |
@@ -116,4 +117,16 @@ This repository is a reflection of my daily effort to become better at problem-s
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/quaildev57/DataStructures/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/quaildev57/DataStructures/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+## Sorting
+|  |
+| ------- |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/quaildev57/DataStructures/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+## Matrix
+|  |
+| ------- |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/quaildev57/DataStructures/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
