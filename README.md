@@ -121,6 +121,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 |  |
 | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/quaildev57/DataStructures/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2235-add-two-integers](https://github.com/quaildev57/DataStructures/tree/master/2235-add-two-integers) |
 ## Sorting
 |  |
 | ------- |
