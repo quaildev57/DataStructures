@@ -110,6 +110,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/quaildev57/DataStructures/tree/master/0027-remove-element) |
+| [0746-min-cost-climbing-stairs](https://github.com/quaildev57/DataStructures/tree/master/0746-min-cost-climbing-stairs) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/quaildev57/DataStructures/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Counting
 |  |
@@ -136,4 +137,5 @@ This repository is a reflection of my daily effort to become better at problem-s
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/quaildev57/DataStructures/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/quaildev57/DataStructures/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
