@@ -105,6 +105,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/quaildev57/DataStructures/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/quaildev57/DataStructures/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/quaildev57/DataStructures/tree/master/0392-is-subsequence) |
+| [0796-rotate-string](https://github.com/quaildev57/DataStructures/tree/master/0796-rotate-string) |
 | [2833-furthest-point-from-origin](https://github.com/quaildev57/DataStructures/tree/master/2833-furthest-point-from-origin) |
 ## Array
 |  |
@@ -120,6 +121,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/quaildev57/DataStructures/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/quaildev57/DataStructures/tree/master/0796-rotate-string) |
 ## Math
 |  |
 | ------- |
