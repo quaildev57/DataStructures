@@ -125,6 +125,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/quaildev57/DataStructures/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/quaildev57/DataStructures/tree/master/0069-sqrtx) |
 | [1025-divisor-game](https://github.com/quaildev57/DataStructures/tree/master/1025-divisor-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/quaildev57/DataStructures/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -155,4 +156,8 @@ This repository is a reflection of my daily effort to become better at problem-s
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/quaildev57/DataStructures/tree/master/1025-divisor-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/quaildev57/DataStructures/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
