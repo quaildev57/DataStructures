@@ -114,6 +114,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 | [0027-remove-element](https://github.com/quaildev57/DataStructures/tree/master/0027-remove-element) |
 | [0746-min-cost-climbing-stairs](https://github.com/quaildev57/DataStructures/tree/master/0746-min-cost-climbing-stairs) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/quaildev57/DataStructures/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2553-separate-the-digits-in-an-array](https://github.com/quaildev57/DataStructures/tree/master/2553-separate-the-digits-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -162,4 +163,8 @@ This repository is a reflection of my daily effort to become better at problem-s
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/quaildev57/DataStructures/tree/master/0029-divide-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/quaildev57/DataStructures/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
