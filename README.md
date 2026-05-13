@@ -98,6 +98,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 | [0027-remove-element](https://github.com/quaildev57/DataStructures/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/quaildev57/DataStructures/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/quaildev57/DataStructures/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/quaildev57/DataStructures/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/quaildev57/DataStructures/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -130,6 +131,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 | [0029-divide-two-integers](https://github.com/quaildev57/DataStructures/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/quaildev57/DataStructures/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/quaildev57/DataStructures/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/quaildev57/DataStructures/tree/master/0202-happy-number) |
 | [1025-divisor-game](https://github.com/quaildev57/DataStructures/tree/master/1025-divisor-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/quaildev57/DataStructures/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2235-add-two-integers](https://github.com/quaildev57/DataStructures/tree/master/2235-add-two-integers) |
@@ -167,4 +169,8 @@ This repository is a reflection of my daily effort to become better at problem-s
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/quaildev57/DataStructures/tree/master/2553-separate-the-digits-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/quaildev57/DataStructures/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
