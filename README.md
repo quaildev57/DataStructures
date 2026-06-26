@@ -172,5 +172,10 @@ This repository is a reflection of my daily effort to become better at problem-s
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/quaildev57/DataStructures/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/quaildev57/DataStructures/tree/master/0202-happy-number) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/quaildev57/DataStructures/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
