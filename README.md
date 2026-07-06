@@ -107,6 +107,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 | [0151-reverse-words-in-a-string](https://github.com/quaildev57/DataStructures/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/quaildev57/DataStructures/tree/master/0168-excel-sheet-column-title) |
 | [0392-is-subsequence](https://github.com/quaildev57/DataStructures/tree/master/0392-is-subsequence) |
+| [0767-reorganize-string](https://github.com/quaildev57/DataStructures/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/quaildev57/DataStructures/tree/master/0796-rotate-string) |
 | [2833-furthest-point-from-origin](https://github.com/quaildev57/DataStructures/tree/master/2833-furthest-point-from-origin) |
 ## Array
@@ -119,6 +120,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 ## Counting
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/quaildev57/DataStructures/tree/master/0767-reorganize-string) |
 | [2833-furthest-point-from-origin](https://github.com/quaildev57/DataStructures/tree/master/2833-furthest-point-from-origin) |
 ## String Matching
 |  |
@@ -138,6 +140,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 ## Sorting
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/quaildev57/DataStructures/tree/master/0767-reorganize-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/quaildev57/DataStructures/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Matrix
 |  |
@@ -174,8 +177,17 @@ This repository is a reflection of my daily effort to become better at problem-s
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/quaildev57/DataStructures/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/quaildev57/DataStructures/tree/master/0202-happy-number) |
+| [0767-reorganize-string](https://github.com/quaildev57/DataStructures/tree/master/0767-reorganize-string) |
 ## Linked List
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/quaildev57/DataStructures/tree/master/0138-copy-list-with-random-pointer) |
+## Greedy
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/quaildev57/DataStructures/tree/master/0767-reorganize-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/quaildev57/DataStructures/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
