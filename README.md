@@ -178,6 +178,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 | [0138-copy-list-with-random-pointer](https://github.com/quaildev57/DataStructures/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/quaildev57/DataStructures/tree/master/0202-happy-number) |
 | [0767-reorganize-string](https://github.com/quaildev57/DataStructures/tree/master/0767-reorganize-string) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/quaildev57/DataStructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -190,4 +191,20 @@ This repository is a reflection of my daily effort to become better at problem-s
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/quaildev57/DataStructures/tree/master/0767-reorganize-string) |
+## Tree
+|  |
+| ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/quaildev57/DataStructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/quaildev57/DataStructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/quaildev57/DataStructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/quaildev57/DataStructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 <!---LeetCode Topics End-->
