@@ -122,6 +122,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/quaildev57/DataStructures/tree/master/0767-reorganize-string) |
+| [1603-design-parking-system](https://github.com/quaildev57/DataStructures/tree/master/1603-design-parking-system) |
 | [2833-furthest-point-from-origin](https://github.com/quaildev57/DataStructures/tree/master/2833-furthest-point-from-origin) |
 ## String Matching
 |  |
@@ -173,6 +174,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 ## Simulation
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/quaildev57/DataStructures/tree/master/1603-design-parking-system) |
 | [2553-separate-the-digits-in-an-array](https://github.com/quaildev57/DataStructures/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
@@ -210,4 +212,8 @@ This repository is a reflection of my daily effort to become better at problem-s
 |  |
 | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/quaildev57/DataStructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/quaildev57/DataStructures/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
