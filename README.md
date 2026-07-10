@@ -117,6 +117,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 | [0746-min-cost-climbing-stairs](https://github.com/quaildev57/DataStructures/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/quaildev57/DataStructures/tree/master/0994-rotting-oranges) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/quaildev57/DataStructures/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/quaildev57/DataStructures/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2553-separate-the-digits-in-an-array](https://github.com/quaildev57/DataStructures/tree/master/2553-separate-the-digits-in-an-array) |
 ## Counting
 |  |
@@ -155,6 +156,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 | [0392-is-subsequence](https://github.com/quaildev57/DataStructures/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/quaildev57/DataStructures/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/quaildev57/DataStructures/tree/master/1025-divisor-game) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/quaildev57/DataStructures/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Binary Search
 |  |
 | ------- |
@@ -216,4 +218,8 @@ This repository is a reflection of my daily effort to become better at problem-s
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/quaildev57/DataStructures/tree/master/1603-design-parking-system) |
+## Prefix Sum
+|  |
+| ------- |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/quaildev57/DataStructures/tree/master/2100-find-good-days-to-rob-the-bank) |
 <!---LeetCode Topics End-->
