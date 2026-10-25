@@ -1,21 +1,38 @@
+
 class Solution {
 public:
-int sumOfSq(int n){
-    int sum = 0;
-    while(n>0){
-        int digit = n%10;
-        sum += digit*digit;
-        n/=10;
-    }
-    return sum;
-}
-    bool isHappy(int n) {
-        unordered_set<int> found;
-        while(n != 1 && found.find(n) == found.end()){
-            found.insert(n);
-            n = sumOfSq(n);
+    int sumOfSquaresOfDigits(int n) {
+        int sum = 0;
+
+        while (n > 0) {
+            int digit = n % 10;
+            sum += digit * digit;
+            n /= 10;
         }
-        return n == 1;
-        
+
+        return sum;
+    }
+
+    bool isHappy(int n) {
+        int slow = n;
+        int fast = n;
+
+        while (fast != 1) {
+            slow = sumOfSquaresOfDigits(slow);
+
+            fast = sumOfSquaresOfDigits(
+                sumOfSquaresOfDigits(fast)
+            );
+
+            if (fast == 1) {
+                return true;
+            }
+
+            if (slow == fast) {
+                return false;
+            }
+        }
+
+        return true;
     }
 };
