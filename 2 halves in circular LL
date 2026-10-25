@@ -1,0 +1,68 @@
+## Split a Circular Linked List into Two Halves
+
+**Problem Statement:**
+
+Given a circular linked list, split it into two circular linked lists. If the number of nodes is even, both lists should contain an equal number of nodes. If the number of nodes is odd, the first list should contain one more node than the second list.
+
+The nodes should be rearranged by changing their links without creating any new nodes. Return a vector containing the head pointers of the two resulting circular linked lists, with the first list's head at index `0` and the second list's head at index `1`.
+
+**Example 1:**
+
+Input: `1 → 2 → 3 → 4 → 5 → 1` (circular)
+
+Output:
+- First circular linked list: `1 → 2 → 3 → 1`
+- Second circular linked list: `4 → 5 → 4`
+
+**Example 2:**
+
+Input: `1 → 2 → 3 → 4 → 1` (circular)
+
+Output:
+- First circular linked list: `1 → 2 → 1`
+- Second circular linked list: `3 → 4 → 3`
+
+**Constraints:**
+- The linked list contains at least two nodes.
+- The input list is circular.
+- The relative order of nodes must be preserved.
+
+**Expected Complexity:**
+- Time Complexity: \(O(n)\)
+- Auxiliary Space Complexity: \(O(1)\), excluding the returned vector.
+ 
+
+/* Circular Linked List Node Structure
+struct Node {
+    int data;
+    struct Node *next;
+
+    Node(int x) {
+        data = x;
+        next = nullptr;
+    }
+};
+*/
+
+class Solution {
+  public:
+    vector<Node *> splitList(Node *head) {
+        // code here
+        Node *slow=head;
+        Node* fast =head->next;
+        while(fast!=head && fast->next!=head){
+            slow=slow->next;
+            fast=fast->next; //one move karre because we need to ensure ki
+            //fast doesn't reach head incase of odd numbers
+            if(fast->next!=head){
+                fast=fast->next;
+            }
+
+        }
+        Node * head2 =slow->next;
+        fast->next =head2;
+        slow->next =head;
+        return{head, head2};
+
+    }
+};
