@@ -97,6 +97,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 | ------- |
 | [0027-remove-element](https://github.com/quaildev57/DataStructures/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/quaildev57/DataStructures/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0142-linked-list-cycle-ii](https://github.com/quaildev57/DataStructures/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/quaildev57/DataStructures/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/quaildev57/DataStructures/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/quaildev57/DataStructures/tree/master/0392-is-subsequence) |
@@ -182,6 +183,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/quaildev57/DataStructures/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/quaildev57/DataStructures/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/quaildev57/DataStructures/tree/master/0202-happy-number) |
 | [0767-reorganize-string](https://github.com/quaildev57/DataStructures/tree/master/0767-reorganize-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/quaildev57/DataStructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -189,6 +191,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/quaildev57/DataStructures/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/quaildev57/DataStructures/tree/master/0142-linked-list-cycle-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -225,5 +228,6 @@ This repository is a reflection of my daily effort to become better at problem-s
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/quaildev57/DataStructures/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/quaildev57/DataStructures/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
