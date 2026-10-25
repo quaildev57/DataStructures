@@ -222,4 +222,8 @@ This repository is a reflection of my daily effort to become better at problem-s
 |  |
 | ------- |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/quaildev57/DataStructures/tree/master/2100-find-good-days-to-rob-the-bank) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/quaildev57/DataStructures/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
