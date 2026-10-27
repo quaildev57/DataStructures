@@ -100,6 +100,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 | [0142-linked-list-cycle-ii](https://github.com/quaildev57/DataStructures/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/quaildev57/DataStructures/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/quaildev57/DataStructures/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/quaildev57/DataStructures/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/quaildev57/DataStructures/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -192,6 +193,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/quaildev57/DataStructures/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/quaildev57/DataStructures/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/quaildev57/DataStructures/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -230,4 +232,12 @@ This repository is a reflection of my daily effort to become better at problem-s
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/quaildev57/DataStructures/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/quaildev57/DataStructures/tree/master/0202-happy-number) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/quaildev57/DataStructures/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/quaildev57/DataStructures/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
