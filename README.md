@@ -116,6 +116,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/quaildev57/DataStructures/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/quaildev57/DataStructures/tree/master/0053-maximum-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/quaildev57/DataStructures/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/quaildev57/DataStructures/tree/master/0994-rotting-oranges) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/quaildev57/DataStructures/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -155,6 +156,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/quaildev57/DataStructures/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/quaildev57/DataStructures/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/quaildev57/DataStructures/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/quaildev57/DataStructures/tree/master/1025-divisor-game) |
@@ -240,4 +242,8 @@ This repository is a reflection of my daily effort to become better at problem-s
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/quaildev57/DataStructures/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/quaildev57/DataStructures/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
