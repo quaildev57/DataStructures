@@ -121,6 +121,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 | [0994-rotting-oranges](https://github.com/quaildev57/DataStructures/tree/master/0994-rotting-oranges) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/quaildev57/DataStructures/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/quaildev57/DataStructures/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/quaildev57/DataStructures/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/quaildev57/DataStructures/tree/master/2553-separate-the-digits-in-an-array) |
 ## Counting
 |  |
@@ -190,6 +191,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 | [0202-happy-number](https://github.com/quaildev57/DataStructures/tree/master/0202-happy-number) |
 | [0767-reorganize-string](https://github.com/quaildev57/DataStructures/tree/master/0767-reorganize-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/quaildev57/DataStructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/quaildev57/DataStructures/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 |  |
 | ------- |
@@ -246,4 +248,8 @@ This repository is a reflection of my daily effort to become better at problem-s
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/quaildev57/DataStructures/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/quaildev57/DataStructures/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
