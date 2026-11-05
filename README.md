@@ -117,6 +117,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 | ------- |
 | [0027-remove-element](https://github.com/quaildev57/DataStructures/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/quaildev57/DataStructures/tree/master/0053-maximum-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/quaildev57/DataStructures/tree/master/0209-minimum-size-subarray-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/quaildev57/DataStructures/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/quaildev57/DataStructures/tree/master/0994-rotting-oranges) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/quaildev57/DataStructures/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -166,6 +167,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/quaildev57/DataStructures/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/quaildev57/DataStructures/tree/master/0209-minimum-size-subarray-sum) |
 ## Brainteaser
 |  |
 | ------- |
@@ -230,6 +232,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/quaildev57/DataStructures/tree/master/0209-minimum-size-subarray-sum) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/quaildev57/DataStructures/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -251,5 +254,6 @@ This repository is a reflection of my daily effort to become better at problem-s
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/quaildev57/DataStructures/tree/master/0209-minimum-size-subarray-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/quaildev57/DataStructures/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
