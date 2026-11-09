@@ -109,6 +109,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/quaildev57/DataStructures/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/quaildev57/DataStructures/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/quaildev57/DataStructures/tree/master/0168-excel-sheet-column-title) |
+| [0187-repeated-dna-sequences](https://github.com/quaildev57/DataStructures/tree/master/0187-repeated-dna-sequences) |
 | [0392-is-subsequence](https://github.com/quaildev57/DataStructures/tree/master/0392-is-subsequence) |
 | [0767-reorganize-string](https://github.com/quaildev57/DataStructures/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/quaildev57/DataStructures/tree/master/0796-rotate-string) |
@@ -181,6 +182,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/quaildev57/DataStructures/tree/master/0029-divide-two-integers) |
+| [0187-repeated-dna-sequences](https://github.com/quaildev57/DataStructures/tree/master/0187-repeated-dna-sequences) |
 ## Simulation
 |  |
 | ------- |
@@ -192,6 +194,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 | [0003-longest-substring-without-repeating-characters](https://github.com/quaildev57/DataStructures/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/quaildev57/DataStructures/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/quaildev57/DataStructures/tree/master/0142-linked-list-cycle-ii) |
+| [0187-repeated-dna-sequences](https://github.com/quaildev57/DataStructures/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/quaildev57/DataStructures/tree/master/0202-happy-number) |
 | [0767-reorganize-string](https://github.com/quaildev57/DataStructures/tree/master/0767-reorganize-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/quaildev57/DataStructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -257,6 +260,23 @@ This repository is a reflection of my daily effort to become better at problem-s
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/quaildev57/DataStructures/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/quaildev57/DataStructures/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/quaildev57/DataStructures/tree/master/0209-minimum-size-subarray-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/quaildev57/DataStructures/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/quaildev57/DataStructures/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/quaildev57/DataStructures/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/quaildev57/DataStructures/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/quaildev57/DataStructures/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
