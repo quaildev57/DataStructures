@@ -121,6 +121,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 | [0053-maximum-subarray](https://github.com/quaildev57/DataStructures/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/quaildev57/DataStructures/tree/master/0209-minimum-size-subarray-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/quaildev57/DataStructures/tree/master/0746-min-cost-climbing-stairs) |
+| [0904-fruit-into-baskets](https://github.com/quaildev57/DataStructures/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/quaildev57/DataStructures/tree/master/0994-rotting-oranges) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/quaildev57/DataStructures/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/quaildev57/DataStructures/tree/master/2100-find-good-days-to-rob-the-bank) |
@@ -198,6 +199,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 | [0202-happy-number](https://github.com/quaildev57/DataStructures/tree/master/0202-happy-number) |
 | [0767-reorganize-string](https://github.com/quaildev57/DataStructures/tree/master/0767-reorganize-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/quaildev57/DataStructures/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0904-fruit-into-baskets](https://github.com/quaildev57/DataStructures/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/quaildev57/DataStructures/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 |  |
@@ -262,6 +264,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 | [0003-longest-substring-without-repeating-characters](https://github.com/quaildev57/DataStructures/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/quaildev57/DataStructures/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/quaildev57/DataStructures/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/quaildev57/DataStructures/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/quaildev57/DataStructures/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Rolling Hash
 |  |
