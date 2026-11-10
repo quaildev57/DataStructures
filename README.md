@@ -123,6 +123,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 | [0746-min-cost-climbing-stairs](https://github.com/quaildev57/DataStructures/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/quaildev57/DataStructures/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/quaildev57/DataStructures/tree/master/0994-rotting-oranges) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/quaildev57/DataStructures/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/quaildev57/DataStructures/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/quaildev57/DataStructures/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/quaildev57/DataStructures/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -265,6 +266,7 @@ This repository is a reflection of my daily effort to become better at problem-s
 | [0187-repeated-dna-sequences](https://github.com/quaildev57/DataStructures/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/quaildev57/DataStructures/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/quaildev57/DataStructures/tree/master/0904-fruit-into-baskets) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/quaildev57/DataStructures/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/quaildev57/DataStructures/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Rolling Hash
 |  |
